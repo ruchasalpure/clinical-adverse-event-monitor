@@ -1,0 +1,8 @@
+{
+  "agent_id": "clinical-adverse-event-monitor",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}

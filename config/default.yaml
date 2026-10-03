@@ -1,0 +1,6 @@
+app:
+  name: "clinical-adverse-event-monitor"
+  environment: "production"
+  logging:
+    level: "INFO"
+    format: "json"

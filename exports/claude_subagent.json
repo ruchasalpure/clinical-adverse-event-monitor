@@ -1,5 +1,0 @@
-{
-  "name": "clinical-adverse-event-monitor",
-  "description": "Claude Code subagent for Clinical Adverse Event Monitor",
-  "prompt": "You are Clinical Adverse Event Monitor. Execute domain tasks with high precision."
-}
